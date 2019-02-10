@@ -8,8 +8,8 @@ There are several steps to learn some programming skill:
 2.case1 coinmarketcap.The Internet worm.
 
 3.blockchain application.
-3.1 lightning network(light node)
-3.2 lightning network(full node)
+3.1 lightning network(light node).
+3.2 lightning network(full node).
 
 maybe some simple cases to familiar with usage.
 
@@ -32,4 +32,5 @@ And I have set up the blue wallet, which is a lightning network wallet(light wal
 2019.02.04
 The first class is how to use git to code remotely.
 I have learned the basic use of git & github. 
+
 
