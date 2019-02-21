@@ -32,19 +32,19 @@ x+3.maybe basic blockchain usage.
 
 
 ----
-2019.02.21
+2019.02.21  
 Now we will build a lightening network full node.  
 Perpas it has 8 steps, now I am in the step 4.2. I am trying to make the Raspberry Pi 3 communicate with my PC.
 
-2019.02.14
+2019.02.14  
 Successfully build a simple blockchain, which can communicate with each other.  
 But I failed to follow the longest chain, I don't know the reason. It is the lastest step, so I just put it down and move to the new project.
 
-2019.02.10
+2019.02.10  
 Successfully update the code of case1-coinmarketcap. But I cannot open the website. So just waiting for the website.  
 And I have set up the blue wallet, which is a lightning network wallet(light wallet).
 
-2019.02.04
+2019.02.04  
 The first class is how to use git to code remotely.  
 I have learned the basic use of git & github. 
 
