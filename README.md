@@ -17,9 +17,9 @@ maybe some simple cases to familiar with usage.
 
 
 ...
-w.be familiar with ethereum 
-w1.read the wiki and origin code
-w2.try to build the ethereum blockchain.
+w.be familiar with ethereum  
+w1.read the wiki and origin code.  
+w2.try to build the ethereum blockchain.  
 
 
 x.how to get data and clean data.
