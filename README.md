@@ -32,6 +32,11 @@ x+3.maybe basic blockchain usage.
 
 
 ----
+2019.02.27  
+I decide to do two things about blockchian.  
+The first one is to build up a database which include enough data about bitcoin,ethereum and eos.  
+The other one is to learn how to build up the ethereum after build up the full node of lightning network.  
+
 2019.02.21  
 Now we will build a lightening network full node.  
 Perpas it has 8 steps, now I am in the step 4.2. I am trying to make the Raspberry Pi 3 communicate with my PC.
